@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Bienvenido MR.HITS!" />
         <p className="description">
-          MR.HITS una foto</code>
+          MR.HITS una foto
         </p>
       </main>
 
