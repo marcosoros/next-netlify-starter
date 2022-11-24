@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Bienvenido MR.HITS!" />
+        <Header title="Croissant Enterprise S.A." />
         <p className="description">
-          A ver, pedazo de Mr Hits, me dijiste que ibas a poner el puto resumen, donde coño está? xq yo no lo veo eh, es que eres un poco subnormal tmbn te digo, pero bueno. Asique cállate de una puta vez y pon el fucking resumen.
+          Croissant Enterprises S.A ofrecemos los mejores madalenas para la salud mental virtualmente expositivo, actualemnte muchos hits como MR.HITS sufren de gilipollitis y con croissant enterprise vendemos madalenas para poder curar a gente como MR.HITS. Juntos podemos madalenar al pobre hits para poder hacer un mundo mejor. 
         </p>
       </main>
 
