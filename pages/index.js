@@ -14,12 +14,13 @@ export default function Home() {
         <Header title="Bienvenido MR.HITS!" />
         <p className="description">
           A ver, pedazo de Mr Hits, me dijiste que ibas a poner el puto resumen, donde coño está? xq yo no lo veo eh, es que eres un poco subnormal tmbn te digo, pero bueno. Asique cállate de una puta vez y pon el fucking resumen.
-        </p><br><br><br>
-        <p>
-          Un cordial saludo, Lorenzo Haspot. Feliz San Valentín.
         </p>
       </main>
 
+<p>
+Un cordial saludo, Lorenzo Haspot. Feliz San Valentín.
+</p>
+    
       <Footer />
     </div>
   )
